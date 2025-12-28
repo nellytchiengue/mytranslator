@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/genai": "^1.34.0",
+    "idb-keyval": "^6.2.2",
+    "jspdf": "^3.0.4",
+    "lucide-react": "^0.562.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "@google/genai": "^1.34.0",
-    "lucide-react": "^0.562.0",
     "zustand": "^5.0.9"
   },
   "devDependencies": {
