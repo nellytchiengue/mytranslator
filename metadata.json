@@ -1,0 +1,5 @@
+{
+  "description": "Linguist - AI Book Translator. Supporting PDF and EPUB from English/Chinese to French using Gemini API.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
